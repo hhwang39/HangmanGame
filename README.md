@@ -12,47 +12,47 @@ python server.py --help to see command you have to type.
 In order to run client,
 python client.py [ip] [port]
 ## 3. Test Result
-Words used
-length 3 words
-"are",
-"Fax",
-length 4 words
-"Jinx",
-"Quad",
-"Waxy",
-"Chip",
-"Buff",
-length 5 words
-"Zippy",
-"Today",
-"Toady",
-length 6 words
-"Oxygen",
-"Sphinx",
-"Zombie",
-length 7 words
-"chatbot",
-"Buzzing",
-length 8 words
-See server.txt to see server output
-This is the output of 
-Client1 connects (say y)
-Client2 connects (say y)
-Client3 connects (say n)
-Closed connection
-Client3 connects (say y)
-Client4 connects (say y)
-Rejected Closed Connection
-Client3 finished the game
-Client1 finished the game
-Client4 now connects (say y)
-Client4 finished the game
-Client2 finished the game
-See client1.txt to see client1 output
-Normal game flow with win
-See client2.txt to see client2 output
-Normal game flow with some illegal argument input and lose
-See client3.txt to see client3 output
-Normal game flow with some illegal argument and win
-See client4.txt to see client4 output
-Normal game flow with some illegal argument and win
+Words used<br />
+length 3 words<br />
+"are",<br />
+"Fax",<br />
+length 4 words<br />
+"Jinx",<br />
+"Quad",<br />
+"Waxy",<br />
+"Chip",<br />
+"Buff",<br />
+length 5 words<br />
+"Zippy",<br />
+"Today",<br />
+"Toady",<br />
+length 6 words<br />
+"Oxygen",<br />
+"Sphinx",<br />
+"Zombie",<br />
+length 7 words<br />
+"chatbot",<br />
+"Buzzing",<br />
+length 8 words<br />
+See server.txt to see server output<br />
+This is the output of<br />
+Client1 connects (say y)<br />
+Client2 connects (say y)<br />
+Client3 connects (say n)<br />
+Closed connection<br />
+Client3 connects (say y)<br />
+Client4 connects (say y)<br />
+Rejected Closed Connection<br />
+Client3 finished the game<br />
+Client1 finished the game<br />
+Client4 now connects (say y)<br />
+Client4 finished the game<br />
+Client2 finished the game<br />
+See client1.txt to see client1 output<br />
+Normal game flow with win<br />
+See client2.txt to see client2 output<br />
+Normal game flow with some illegal argument input and lose<br />
+See client3.txt to see client3 output<br />
+Normal game flow with some illegal argument and win<br />
+See client4.txt to see client4 output<br />
+Normal game flow with some illegal argument and win<br />

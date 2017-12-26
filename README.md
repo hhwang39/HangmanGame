@@ -1,16 +1,16 @@
 # Multiplayer Hangman Game
 ## 1. Overview
-This python code will use python default socket library to create multi-player hangman game. Main thread will wait and accept new connection from clients and count how many clients have been connected. If new client that tries to connect to server is 4th one, it will terminate the connection to that client. 
-This resembles normal hangman game. When connected to a client, the server chooses random word from the list and the client will ask a user to guess a letter and the letter is sent to the server. Server will respond with word and incorrect guesses.
+This python code will use python default socket library to create multi-player hangman game. Main thread will wait and accept new connection from clients and count how many clients have been connected. If new client that tries to connect to server is 4th one, it will terminate the connection to that client. <br />
+This resembles normal hangman game. When connected to a client, the server chooses random word from the list and the client will ask a user to guess a letter and the letter is sent to the server. Server will respond with word and incorrect guesses.<br />
 This uses python 2.7 default socket, random so there should not be libraries that need to be installed other than python 2.7 itself
 ## 2. Run Server/Client
-In order to run server,
-python server.py [port] [txtfile(optional)]
-port 80 might require sudo permission.
-you can also 
-python server.py --help to see command you have to type.
-In order to run client,
-python client.py [ip] [port]
+In order to run server,<br />
+python server.py [port] [txtfile(optional)]<br />
+port 80 might require sudo permission.<br />
+you can also<br /> 
+python server.py --help to see command you have to type.<br />
+In order to run client,<br />
+python client.py [ip] [port]<br />
 ## 3. Test Result
 Words used<br />
 length 3 words<br />

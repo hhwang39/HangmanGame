@@ -1,0 +1,12 @@
+Get connected from 127.0.0.1:11850 // client1
+Get connected from 127.0.0.1:11851 // client2
+Get connected from 127.0.0.1:11852 // client3 says no
+End the connection from 127.0.0.1:11852 // close client3 connection
+Get connected from 127.0.0.1:11854 // client3 reattempt
+Get connected from 127.0.0.1:11855 // client4 attemp
+End the connection from 127.0.0.1:11855 // client4 rejected
+End the connection from 127.0.0.1:11854 // client3 finished game
+End the connection from 127.0.0.1:11850 // client1 finished game
+Get connected from 127.0.0.1:8910 // client4 attempt connection
+End the connection from 127.0.0.1:8910 // client4 finished game
+End the connection from 127.0.0.1:11851 // client2 finished game

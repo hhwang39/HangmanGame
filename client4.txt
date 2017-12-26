@@ -1,0 +1,32 @@
+Ready to start game? (y/n):y
+server-overloaded
+Closed Connection
+Ready to start game? (y/n):y
+___
+Incorrect Guesses:
+
+Letter to guess: f
+___
+Incorrect Guesses:  f
+
+Letter to guess: a
+a__
+Incorrect Guesses:  f
+
+Letter to guess: a
+Error! Letter A has been guessed before, please guess another letter.
+Letter to guess: q
+a__
+Incorrect Guesses:  f q
+
+Letter to guess: e
+a_e
+Incorrect Guesses:  f q
+
+Letter to guess: w
+a_e
+Incorrect Guesses:  f q w
+
+Letter to guess: r
+You Win!
+Closed Connection

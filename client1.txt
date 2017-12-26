@@ -1,0 +1,20 @@
+Ready to start game? (y/n):____
+Incorrect Guesses:  
+
+Letter to guess: ____
+Incorrect Guesses:  j 
+
+Letter to guess: ____
+Incorrect Guesses:  j q 
+
+Letter to guess: W___
+Incorrect Guesses:  j q 
+
+Letter to guess: Wa__
+Incorrect Guesses:  j q 
+
+Letter to guess: Wax_
+Incorrect Guesses:  j q 
+
+Letter to guess: You Win!
+Closed Connection

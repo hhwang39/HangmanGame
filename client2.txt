@@ -1,0 +1,47 @@
+Ready to start game? (y/n):y
+____
+Incorrect Guesses:
+
+Letter to guess: j
+____
+Incorrect Guesses:  j
+
+Letter to guess: q
+____
+Incorrect Guesses:  j q
+
+Letter to guess: w
+____
+Incorrect Guesses:  j q w
+
+Letter to guess: c
+C___
+Incorrect Guesses:  j q w
+
+Letter to guess: h
+Ch__
+Incorrect Guesses:  j q w
+
+Letter to guess: p
+Ch_p
+Incorrect Guesses:  j q w
+
+Letter to guess: m
+Ch_p
+Incorrect Guesses:  j q w m
+
+Letter to guess: z
+Ch_p
+Incorrect Guesses:  j q w m z
+
+Letter to guess: c
+Error! Letter C has been guessed before, please guess another letter.
+Letter to guess: p
+Error! Letter P has been guessed before, please guess another letter.
+Letter to guess: ppp
+Error! Please guess one letter.
+Letter to guess: chip
+Error! Please guess one letter.
+Letter to guess: v
+You Lose:(
+Closed Connection

@@ -1,0 +1,45 @@
+Ready to start game? (y/n):n
+Closed Connection
+Ready to start game? (y/n):y
+____
+Incorrect Guesses:
+
+Letter to guess: b
+____
+Incorrect Guesses:  b
+
+Letter to guess: w
+____
+Incorrect Guesses:  b w
+
+Letter to guess: q
+____
+Incorrect Guesses:  b w q
+
+Letter to guess: j
+J___
+Incorrect Guesses:  b w q
+
+Letter to guess: b
+Error! Letter B has been guessed before, please guess another letter.
+Letter to guess: bb
+Error! Please guess one letter.
+Letter to guess: 3
+Error! Please guess one letter.
+Letter to guess: 4
+Error! Please guess one letter.
+Letter to guess: 213
+Error! Please guess one letter.
+Letter to guess: w
+Error! Letter W has been guessed before, please guess another letter.
+Letter to guess: i
+Ji__
+Incorrect Guesses:  b w q
+
+Letter to guess: n
+Jin_
+Incorrect Guesses:  b w q
+
+Letter to guess: x
+You Win!
+Closed Connection
